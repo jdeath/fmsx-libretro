@@ -17,7 +17,7 @@ cheat0_rumble_type = "0"
 cheat0_rumble_value = "0"
 
 cheat1_desc = "invincible"
-cheat1_address = "-1000"
+cheat1_address = "97304"
 cheat1_address_bit_position = "255"
 cheat1_big_endian = "false"
 cheat1_enable = "false"

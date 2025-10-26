@@ -1,5 +1,5 @@
 cheat0_desc = "time (select when letters are on screen; de-select at end of level)"
-cheat0_address = "-15039"
+cheat0_address = "83265"
 cheat0_address_bit_position = "255"
 cheat0_big_endian = "false"
 cheat0_enable = "false"

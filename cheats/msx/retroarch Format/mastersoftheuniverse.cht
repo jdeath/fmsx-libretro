@@ -89,7 +89,7 @@ cheat4_rumble_type = "0"
 cheat4_rumble_value = "0"
 
 cheat5_desc = "lives"
-cheat5_address = "-6941"
+cheat5_address = "91363"
 cheat5_address_bit_position = "255"
 cheat5_big_endian = "false"
 cheat5_enable = "false"

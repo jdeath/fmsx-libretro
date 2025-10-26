@@ -1,5 +1,5 @@
 cheat0_desc = "invulnerable"
-cheat0_address = "-1536"
+cheat0_address = "96768"
 cheat0_address_bit_position = "255"
 cheat0_big_endian = "false"
 cheat0_enable = "false"
